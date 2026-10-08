@@ -15,6 +15,7 @@ public class TempConverter {
 
         System.out.printf("Temperature in Fahrenheit is: %.2f" , fahrenheit);
 
+        
         scanner.close();
     }
 }
